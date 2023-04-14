@@ -1,0 +1,7 @@
+.radio{
+    border: 1px solid;
+    padding-top: 4px;
+}
+.active{
+    background-color: white;
+}
